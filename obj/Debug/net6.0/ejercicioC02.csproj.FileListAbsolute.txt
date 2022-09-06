@@ -1,0 +1,15 @@
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\bin\Debug\net6.0\ejercicioC02.exe
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\bin\Debug\net6.0\ejercicioC02.deps.json
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\bin\Debug\net6.0\ejercicioC02.runtimeconfig.json
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\bin\Debug\net6.0\ejercicioC02.dll
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\bin\Debug\net6.0\ejercicioC02.pdb
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.csproj.AssemblyReference.cache
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.AssemblyInfoInputs.cache
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.AssemblyInfo.cs
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.csproj.CoreCompileInputs.cache
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.dll
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\refint\ejercicioC02.dll
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.pdb
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ejercicioC02.genruntimeconfig.cache
+C:\Users\mistereberle\source\repos\ejercicioC02\ejercicioC02\obj\Debug\net6.0\ref\ejercicioC02.dll
